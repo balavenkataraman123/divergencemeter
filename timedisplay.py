@@ -38,4 +38,3 @@ while True:
     cv2.imshow("image", img)
     if cv2.waitKey(5) & 0xFF == 27:
         break        
-cv2.imwrite("output.jpg", img)
