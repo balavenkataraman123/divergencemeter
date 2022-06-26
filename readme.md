@@ -2,7 +2,7 @@
 
 Countdown timer, but the digits are displayed on nixie tubes to look like the divergence meter from steins gate
 
-made it while bored on a long drive (fortunately my new laptop actually has battery life, unlike my old one)
+made it while bored on a long drive 
 
 utility: ig it looks cool, nice countdown timer for someone who likes that aesthetic
 
